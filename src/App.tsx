@@ -587,13 +587,7 @@ function App() {
                 <h4 className="text-xl font-bold mb-2">Initial Market Cap</h4>
                 <p className="text-2xl font-bold text-green-400">$25,000,000</p>
               </div>
-              <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
-                <BookOpen className="h-8 w-8 text-purple-400 mb-2" />
-                <h4 className="text-xl font-bold mb-2">Smart Contract</h4>
-                <p className="text-sm font-mono bg-white/10 p-2 rounded">
-                  0x1234...5678
-                </p>
-              </div>
+
             </div>
           </div>
         </div>
@@ -772,22 +766,7 @@ function App() {
                   >
                     Documentation
                   </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="hover:text-purple-400 transition-colors"
-                  >
-                    GitHub
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="hover:text-purple-400 transition-colors"
-                  >
-                    Audit Reports
-                  </a>
+
                 </li>
               </ul>
             </div>
@@ -796,7 +775,7 @@ function App() {
               <ul className="space-y-2 text-gray-400">
                 <li>
                   <a
-                    href="#"
+                    href="https://x.com/NOVA_TOKENoff"
                     className="hover:text-purple-400 transition-colors"
                   >
                     Twitter
@@ -804,28 +783,14 @@ function App() {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="https://t.me/novatokenpumpfun"
                     className="hover:text-purple-400 transition-colors"
                   >
                     Telegram
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="#"
-                    className="hover:text-purple-400 transition-colors"
-                  >
-                    Discord
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="hover:text-purple-400 transition-colors"
-                  >
-                    Medium
-                  </a>
-                </li>
+              
+  
               </ul>
             </div>
           </div>
